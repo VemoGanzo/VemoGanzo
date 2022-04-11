@@ -5,5 +5,5 @@
 
 ### 🚀 My skills
 
-![Lua](https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg)
+![Lua](https://img.shields.io/badge/Lua-ED8B00?style=for-the-badge&logo=lua&logoColor=white)
 ![Skript](https://media.forgecdn.net/avatars/thumbnails/71/627/62/62/636163282994452816.png)
